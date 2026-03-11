@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "war_no_peace.aternos.me",
+    "ip": "Li7waaaaak.aternos.me",
     "port": 64867,
     "version": "1.18.2"
   },
@@ -26,8 +26,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
