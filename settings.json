@@ -8,7 +8,7 @@
   "server": {
     "ip": "Liii7wak.aternos.me",
     "port": 64867,
-    "version": "1.16.5"
+    "version": "1.18.2"
   },
   "position": {
     "enabled": true,
@@ -62,7 +62,7 @@
     }
   },
   "modules": {
-    "avoidMobs": false,
+    "avoidMobs": true,
     "combat": true,
     "beds": true,
     "chat": true,
