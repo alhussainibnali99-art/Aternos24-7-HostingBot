@@ -8,7 +8,7 @@
   "server": {
     "ip": "Liii7wak.aternos.me",
     "port": 64867,
-    "version": "1.18.2"
+    "version": "1.12"
   },
   "position": {
     "enabled": true,
@@ -73,8 +73,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": true,
-    "place-night": true
+    "pick-up-day": false,
+    "place-night": false
   },
   "discord": {
     "enabled": false,
